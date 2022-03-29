@@ -1,0 +1,30 @@
+body{
+    background-color: #D0D3D4 ;
+}
+.from-style{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.op-tabel{
+    margin-top: 20px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    border-style: solid;
+    border-color: #283747;
+}
+.json-data-table h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.op-tabel table, th, td{
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
